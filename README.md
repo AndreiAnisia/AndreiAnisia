@@ -21,7 +21,6 @@ I'm a guy who is passionate about writing code, solving problems, automating stu
 </p>
 
 <br />
-<br />
 
 <h3 align="center">
   If you're interested in chatting or have any questions I'd love for you to reach out!
