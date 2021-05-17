@@ -2,7 +2,7 @@
 
 I'm a guy who is passionate about writing code, solving problems, automating stuff, and building apps.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m a student at the Faculty of Automatic Control and Computer Science at Politehnica University of Bucharest.
 - 🌱 I’m currently improving my frond-end web development skills.
 - 👯 I’m looking for a web developer job.
 
