@@ -5,7 +5,7 @@ I'm a guy who is passionate about writing code, solving problems, automating stu
 - 🔭 I’m a student at the Faculty of Automatic Control and Computer Science at Politehnica University of Bucharest.
 - 🌱 I’m currently improving my frond-end web development skills.
 - 👯 I’m looking for a web developer job.
-
+<p align="center">
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -18,7 +18,7 @@ I'm a guy who is passionate about writing code, solving problems, automating stu
 <img align="left" alt="Redux" width="35" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+</p>
 
 <br />
 <br />
